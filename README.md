@@ -41,4 +41,6 @@ ipython kernel install --user --name=<virtual-environment-name>
 
 After this, just run the notebook file. 
 
+For more information, refer to the attached Project Report.
+
 Feel free to reach out if you have any issues.
